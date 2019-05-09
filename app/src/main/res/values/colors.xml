@@ -2,8 +2,15 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
+
+    <!--Login 2 Colors -->
     <color name="colorAccent">#D81B60</color>
     <color name="colorOrange">#FF9540</color>
     <color name="colorPink">#E60CA5</color>
     <color name="colorGrey">#A7A7A7</color>
+
+    <!--Login One Colors -->
+    <color name="colorBlue">#396AFC</color>
+    <color name="colorWhite">#EAE9EF</color>
+    <color name="colorDark">#292930</color>
 </resources>

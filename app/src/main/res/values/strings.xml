@@ -16,4 +16,14 @@
     <string name="confirmPass">Confirm Password</string>
     <string name="sign_up_with">Or Sign Up With</string>
     <string name="have_account">I\'ve got an account already?</string>
+    <string name="go">GO!</string>
+    <string name="simsleev">SIMSLEEV</string>
+    <string name="having_issues">Having Issues?</string>
+    <string name="are_you_a_newbie">Are you a newbie?</string>
+    <string name="i_am_already_a_member">I am already a member</string>
+
+    <string-array name="login_titles">
+        <item>SIMSLEEV Dark</item>
+        <item>Curved Pink UI</item>
+    </string-array>
 </resources>
